@@ -16,6 +16,7 @@ We are currently building:
 * [Smart Node Install](https://github.com/rocket-pool/smartnode-install): The install script for a Rocket Pool smart node.
 * [Reward Trees](https://github.com/rocket-pool/rewards-trees): Storage for the rewards Merkle tree files needed by node operators to claim rewards on the Rocket Pool network.
 * [Documentation](https://github.com/rocket-pool/docs.rocketpool.net): The documentation website for how the protocol works, how to get started, how to troubleshoot, etc.
+* [Contract Addresses](https://docs.rocketpool.net/overview/contracts-integrations): Need to verify contract addresses or an integration?
 * [RPIPs](https://github.com/rocket-pool/RPIPs): Formal changes to how the protocol works are formally proposed via Rocket Pool Improvement Proposals (RPIPs).
 * [Rocket Pool Go](https://github.com/rocket-pool/rocketpool-go): A Golang library for interacting with the Rocket Pool network.
 * [Rocket Pool Research](https://github.com/rocket-pool/rocketpool-research): A collection of research items.
