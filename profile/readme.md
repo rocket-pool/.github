@@ -1,9 +1,9 @@
-<picture> 
+<picture>
   <img alt="rocket pool logo" src="https://raw.githubusercontent.com/rocket-pool/.github/main/assets/logo.png" width="auto" height="120">
 </picture>
 
 <h1>
-Rocket Pool 
+Rocket Pool
 </h1>
 
 [Rocket Pool](https://rocketpool.net/) is a Decentralised Ethereum Proof of Stake Protocol.
@@ -14,7 +14,6 @@ We are currently building:
 
 - [Smart Contracts](https://github.com/rocket-pool/rocketpool): The core of the protocol, the solidity based smart contracts & unit/integration tests.
 - [Smart Node](https://github.com/rocket-pool/smartnode): The CLI package for Rocket Pool smart nodes.
-- [Smart Node Install](https://github.com/rocket-pool/smartnode-install): The install script for a Rocket Pool smart node.
 - [Documentation](https://github.com/rocket-pool/docs.rocketpool.net): The documentation website for how the protocol works, how to get started, how to troubleshoot, etc.
 - [Rocket Pool Go](https://github.com/rocket-pool/rocketpool-go): A Golang library for interacting with the Rocket Pool network.
 - [Rocket Pool Research](https://github.com/rocket-pool/rocketpool-research): A collection of research items.
